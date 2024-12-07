@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'vazir';
+    src: url(../font/Vazir.woff);
+}
+
+body,
+button,
+input {
+    font-family: 'vazir';
+}
+
+.bg-items {
+    background-color: #e4e4e4;
+}
+
+.fs-7 {
+    font-size: 15px;
+}
+
+.w-15 {
+    width: 16%;
+}
+
+.img-slider {
+    height: 450px;
+    object-fit: cover;
+}
+
+textarea {
+    resize: none;
+}
+
+.img-footer {
+    width: 80px;
+    margin: 0 auto;
+    display: block;
+}
+
+.pointer {
+    cursor: pointer;
+}
